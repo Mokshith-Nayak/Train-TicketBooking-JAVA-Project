@@ -1,0 +1,23 @@
+[
+  {
+    "train_id": "123",
+    "train_no": "A12345",
+    "seats": [
+      [0, 0, 1, 0, 1],
+      [1, 0, 0, 1, 0],
+      [0, 1, 1, 0, 0],
+      [0, 0, 0, 1, 1],
+      [1, 1, 0, 0, 0]
+    ],
+    "station_times": {
+      "bangalore": "13:50:00",
+      "chennai": "15:00:00",
+      "hyderabad": "16:45:00",
+      "mumbai": "19:30:00",
+      "ahmedabad": "21:15:00",
+      "delhi": "23:00:00",
+      "jaipur": "01:00:00"
+    },
+    "stations": ["bangalore", "chennai", "hyderabad", "mumbai", "ahmedabad", "delhi", "jaipur"]
+  }
+]
